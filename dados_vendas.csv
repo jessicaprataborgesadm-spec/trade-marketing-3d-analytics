@@ -1,0 +1,4 @@
+id,y,nome,base,preco,margem,cor,nivel,espaco,share,cat
+1,1.6,Refrigerante Cola 2L,180,8.5,0.35,0x00f2fe,Topo,33,25,Bebidas
+2,0.3,Cerveja Pure Malt,320,4.9,0.42,0xff0055,Olhos,33,55,Alcoólicos
+3,-1.0,Água Mineral 500ml,110,2.5,0.50,0x10b981,Pés,33,20,Hidratação
